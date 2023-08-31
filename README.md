@@ -1,10 +1,11 @@
-## Oi, eu sou Lucas Thomaz 👨🏽‍💻
 
-[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llucasthomazmcz/)
+## Oi, eu sou Lucas Thomaz 🧑🏽‍💻
+
+<a href="https://www.linkedin.com/in/llucasthomazmcz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LLucasThomaz&show_icons=true&theme=dracula" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLucasThomaz&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LLucasThomaz&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLucasThomaz&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br/>
