@@ -2,8 +2,10 @@
 
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/llucasthomazmcz/)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LLucasThomaz&show_icons=true&theme=dracula" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLucasThomaz&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LLucasThomaz&show_icons=true&theme=dracula" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLucasThomaz&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
