@@ -20,4 +20,4 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MYSQL">
 </div><br/>
 
-Sou um estudante dedicado de análise e desenvolvimento de sistemas, um entusiasta dos esportes e dos videogames, e um apaixonado por surfar. Acredito que essa mistura de interesses me ajuda a crescer de forma inteira e a aproveitar ao máximo cada aspecto da vida.
+Sou um estudante dedicado de análise e desenvolvimento de sistemas, um entusiasta dos esportes e dos videogames, e apaixonado por surf. Acredito que essa mistura de interesses me ajuda a crescer de forma inteira e a aproveitar ao máximo cada aspecto da vida.
